@@ -1,0 +1,11 @@
+[package]
+name = "multi_value_gen"
+authors = ["Shua <CHA_Shua@outlook.com>"]
+version = "0.1.0"
+description = "Generate WebAssembly with multi-value"
+edition = "2024"
+license = "MIT"
+repository = "https://github.com/Shua-github/multi-value-gen"
+
+[dependencies]
+walrus = "0.24.4"
